@@ -4,6 +4,7 @@ import Login from "./login";
 
 export class App extends React.Component {
     render() {
-       <Login/>
+        return( <Login/>);
+      
     }
 }
